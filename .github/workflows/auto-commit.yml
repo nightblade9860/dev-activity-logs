@@ -1,0 +1,38 @@
+name: Dev Log Automation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Git
+        run: |
+          git config user.name "Maaz"
+          git config user.email "maazshaikh2013@gmail.com"
+
+      - name: Run log generator
+        run: |
+          chmod +x scripts/generate_log.sh
+          ./scripts/generate_log.sh
+
+      - name: Generate commit message
+        run: |
+          msgs=("docs: update dev notes"
+                "chore: log progress"
+                "notes: system design thoughts"
+                "dev: checkpoint")
+          echo "MSG=${msgs[$RANDOM % ${#msgs[@]}]}" >> $GITHUB_ENV
+
+      - name: Commit & push
+        run: |
+          git add .
+          git commit -m "$MSG ($(date))" || echo "No changes"
+          git push
