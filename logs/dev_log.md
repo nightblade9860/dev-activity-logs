@@ -14,3 +14,7 @@
 - Focus: Redis caching patterns
 - Notes: Identified possible scaling bottlenecks.
 
+## Tue Mar 31 12:59:00 UTC 2026
+- Focus: Rate limiting strategies for APIs
+- Notes: Considered tradeoffs between consistency and availability.
+
