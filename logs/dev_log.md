@@ -34,3 +34,7 @@
 - Focus: Payment fraud detection edge cases
 - Notes: Explored failure scenarios and mitigation strategies.
 
+## Fri Apr  3 01:43:42 UTC 2026
+- Focus: Rate limiting strategies for APIs
+- Notes: Considered tradeoffs between consistency and availability.
+
