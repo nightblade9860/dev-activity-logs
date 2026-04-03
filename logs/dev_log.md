@@ -38,3 +38,7 @@
 - Focus: Rate limiting strategies for APIs
 - Notes: Considered tradeoffs between consistency and availability.
 
+## Fri Apr  3 12:43:34 UTC 2026
+- Focus: Redis caching patterns
+- Notes: Explored failure scenarios and mitigation strategies.
+
