@@ -130,3 +130,7 @@
 - Focus: Kafka vs RabbitMQ tradeoffs
 - Notes: Refined approach for production readiness.
 
+## Wed Apr 15 01:48:37 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
