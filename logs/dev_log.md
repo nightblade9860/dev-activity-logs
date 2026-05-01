@@ -254,3 +254,7 @@
 - Focus: Idempotency in distributed systems
 - Notes: Explored failure scenarios and mitigation strategies.
 
+## Fri May  1 02:14:10 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Considered tradeoffs between consistency and availability.
+
