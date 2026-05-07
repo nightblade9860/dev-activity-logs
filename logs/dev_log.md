@@ -302,3 +302,7 @@
 - Focus: Rate limiting strategies for APIs
 - Notes: Explored failure scenarios and mitigation strategies.
 
+## Thu May  7 02:06:55 UTC 2026
+- Focus: Idempotency in distributed systems
+- Notes: Identified possible scaling bottlenecks.
+
