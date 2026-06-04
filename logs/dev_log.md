@@ -526,3 +526,7 @@
 - Focus: Kafka vs RabbitMQ tradeoffs
 - Notes: Explored failure scenarios and mitigation strategies.
 
+## Thu Jun  4 02:52:17 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
