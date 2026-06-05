@@ -538,3 +538,7 @@
 - Focus: Idempotency in distributed systems
 - Notes: Considered tradeoffs between consistency and availability.
 
+## Fri Jun  5 14:29:19 UTC 2026
+- Focus: Rate limiting strategies for APIs
+- Notes: Identified possible scaling bottlenecks.
+
