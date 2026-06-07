@@ -550,3 +550,7 @@
 - Focus: Rate limiting strategies for APIs
 - Notes: Explored failure scenarios and mitigation strategies.
 
+## Sun Jun  7 02:45:58 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
