@@ -562,3 +562,7 @@
 - Focus: Kafka vs RabbitMQ tradeoffs
 - Notes: Considered tradeoffs between consistency and availability.
 
+## Mon Jun  8 15:33:01 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Explored failure scenarios and mitigation strategies.
+
