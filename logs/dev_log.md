@@ -646,3 +646,7 @@
 - Focus: Payment fraud detection edge cases
 - Notes: Refined approach for production readiness.
 
+## Fri Jun 19 03:33:28 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Refined approach for production readiness.
+
