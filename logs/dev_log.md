@@ -702,3 +702,7 @@
 - Focus: Idempotency in distributed systems
 - Notes: Refined approach for production readiness.
 
+## Fri Jun 26 02:36:31 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
