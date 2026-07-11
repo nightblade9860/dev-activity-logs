@@ -826,3 +826,7 @@
 - Focus: Kafka vs RabbitMQ tradeoffs
 - Notes: Identified possible scaling bottlenecks.
 
+## Sat Jul 11 12:59:22 UTC 2026
+- Focus: Idempotency in distributed systems
+- Notes: Considered tradeoffs between consistency and availability.
+
