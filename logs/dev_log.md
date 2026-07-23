@@ -918,3 +918,7 @@
 - Focus: Redis caching patterns
 - Notes: Refined approach for production readiness.
 
+## Thu Jul 23 02:00:35 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
