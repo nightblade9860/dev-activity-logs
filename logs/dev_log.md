@@ -970,3 +970,7 @@
 - Focus: Payment fraud detection edge cases
 - Notes: Identified possible scaling bottlenecks.
 
+## Wed Jul 29 13:49:30 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Considered tradeoffs between consistency and availability.
+
