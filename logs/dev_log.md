@@ -1042,3 +1042,7 @@
 - Focus: Kafka vs RabbitMQ tradeoffs
 - Notes: Refined approach for production readiness.
 
+## Fri Aug  7 12:42:55 UTC 2026
+- Focus: Rate limiting strategies for APIs
+- Notes: Explored failure scenarios and mitigation strategies.
+
