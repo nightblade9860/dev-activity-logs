@@ -1230,3 +1230,7 @@
 - Focus: Redis caching patterns
 - Notes: Considered tradeoffs between consistency and availability.
 
+## Mon Aug 31 02:37:25 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
