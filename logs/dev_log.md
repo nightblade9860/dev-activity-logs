@@ -1290,3 +1290,7 @@
 - Focus: Rate limiting strategies for APIs
 - Notes: Considered tradeoffs between consistency and availability.
 
+## Mon Sep  7 16:55:57 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Identified possible scaling bottlenecks.
+
