@@ -1778,3 +1778,7 @@
 - Focus: Redis caching patterns
 - Notes: Identified possible scaling bottlenecks.
 
+## Sat Nov  7 17:13:18 UTC 2026
+- Focus: Kafka vs RabbitMQ tradeoffs
+- Notes: Explored failure scenarios and mitigation strategies.
+
